@@ -77,7 +77,16 @@
 ---
 
 ### 📊 Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana-Maia01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<picture align="center">
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Mariana-Maia01&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
@@ -87,9 +96,4 @@
   />
 
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mariana-Maia01/Mariana-Maia01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mariana-Maia01/Mariana-Maia01/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mariana-Maia01/Mariana-Maia01/output/github-contribution-grid-snake.svg">
 </picture>
