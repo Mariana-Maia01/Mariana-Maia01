@@ -78,7 +78,6 @@
 
 ### 📊 Estatísticas
 
-<picture align="center">
   <p>
   <img 
     align="left" 
@@ -96,4 +95,3 @@
   />
 
 </p>
-</picture>
