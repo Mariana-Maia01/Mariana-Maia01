@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Olá! Meu nome é Mariana Dominguez Maia, tenho 17 anos e sou natural de São Paulo. Atualmente, estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes, com foco em desenvolvimento Back-End.
+<p align="center">Olá! Meu nome é Mariana Dominguez Maia, tenho 17 anos e sou natural de São Paulo. Atualmente, estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes, com foco em desenvolvimento Back-End.
   
 #
 
