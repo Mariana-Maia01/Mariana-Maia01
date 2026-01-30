@@ -17,8 +17,6 @@
   </tr>
 </table>
 
----
-
 ### 🛠️ Minha Stack Tecnológica
 
 <div align="center">
