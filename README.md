@@ -1,4 +1,4 @@
-# Olá! Eu sou a Mariana Dominguez Maia 💜 <img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="7%"/>
+# Olá! Eu sou a Mariana Dominguez Maia 💜<img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="7%"/>
 
 <table>
   <tr>
@@ -7,7 +7,8 @@
       <p>Meu foco principal é o desenvolvimento <b>Full-Stack</b>, construindo aplicações completas, do banco de dados à interface do usuário.</p>
       <p>
         📫 <b>Contato:</b> <a href="mailto:marianadominguezmaia@gmail.com">marianadominguezmaia@gmail.com</a><br>
-        🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/marianadominguezmaia/">in/marianadominguezmaia</a>
+        🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/marianadominguezmaia/">in/marianadominguezmaia</a><br>
+        🎓 <b>Credly:</b> <a href="https://www.credly.com/users/mariana-dominguez-maia-01/edit#credly">mariana-dominguez-maia</a>
       </p>
     </td>
     <td valign="top" width="40%">
@@ -25,7 +26,7 @@
     <tr>
       <td>
         <kbd align="center">
-          <b>Back-end</b>
+          <kbd><b>Back-end</b></kbd>
           <br><br>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
           <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"/>
@@ -35,7 +36,7 @@
       </td>
       <td>
         <kbd align="center">
-          <b>Front-end</b>
+          <kbd><b>Front-end</b></kbd>
           <br><br>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/>
@@ -44,7 +45,7 @@
       </td>
       <td>
         <kbd align="center">
-          <b>Library/Frameworks</b>
+          <kbd><b>Library/Frameworks</b></kbd>
           <br><br>
           <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET"/>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
@@ -54,23 +55,25 @@
       </td>
       <td>
         <kbd align="center">
-          <b>Outros</b>
+          <kbd><b>Outros</b></kbd>
           <br><br>
           <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker"/>
-          <img width="35px" src="
+          <img width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"/>
+          <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"/>
+          <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
+          <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"/>
+        </kbd>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🎓 Educação
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Fatec Mogi das Cruzes (2025 - 2027)
-* **Desenvolvedora Java Full Stack** - Formações complementares focadas em Spring Boot e ecossistema Java
-
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Fatec Mogi das Cruzes (2024 - 2027)
+* **Java Web: crie aplicações usando Spring Boot** - Formações complementares focadas em Spring Boot e ecossistema Java
+* **Desenvolvimento de GenAI Apps com Gemini e Streamlit Skill Badge Google** - Formação focada em desenvolvimento de aplicações com Inteligência Artificial Generativa utilizando Gemini e Streamlit
+* **Bootcamp Microsoft Github Copilot Challenge** - Formação focada em GitHub Copilot e suas aplicações no desenvolvimento de software
 
 ---
-### ☕ Frase Favorita
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/eb/ec/c8/ebecc848033bb43e675a28b0fdb2432e.gif" width="300px"/>
-  <br>
-  <i>"Transformando café em código e ideias em realidade."</i>
-</div>
