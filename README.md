@@ -1,4 +1,4 @@
-# Olá! Eu sou a Mariana Dominguez Maia 💜<img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="7%"/>
+# Olá! Eu sou a Mariana Dominguez Maia 💜 <img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="7%"/>
 
 <table>
   <tr>
@@ -25,7 +25,7 @@
     <tr>
       <td>
         <kbd align="center">
-          <kbd><b>Back-end</b></kbd>
+          <b>Back-end</b>
           <br><br>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
           <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"/>
@@ -35,7 +35,7 @@
       </td>
       <td>
         <kbd align="center">
-          <kbd><b>Front-end</b></kbd>
+          <b>Front-end</b>
           <br><br>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/>
@@ -44,7 +44,7 @@
       </td>
       <td>
         <kbd align="center">
-          <kbd><b>Library/Frameworks</b></kbd>
+          <b>Library/Frameworks</b>
           <br><br>
           <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET"/>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
@@ -54,18 +54,10 @@
       </td>
       <td>
         <kbd align="center">
-          <kbd><b>Outros</b></kbd>
+          <b>Outros</b>
           <br><br>
           <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker"/>
-          <img width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"/>
-          <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"/>
-          <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
-          <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"/>
-        </kbd>
-      </td>
-    </tr>
-  </table>
-</div>
+          <img width="35px" src="
 
 ---
 
