@@ -1,23 +1,21 @@
-# Olá! Eu sou a Mariana Dominguez Maia 💜<img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="7%"/>
+# Olá! Eu sou a Mariana Dominguez Maia 💜 <img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="7%"/>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="text-align: left; width: 60%;">
       <p>Tenho 18 anos e sou natural de São Paulo. Atualmente, estou no 3º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Fatec Mogi das Cruzes</b>.</p>
       <p>Meu foco principal é o desenvolvimento <b>Full-Stack</b>, construindo aplicações completas, do banco de dados à interface do usuário.</p>
       <p>
         📫 <b>Contato:</b> <a href="mailto:marianadominguezmaia@gmail.com">marianadominguezmaia@gmail.com</a><br>
         🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/marianadominguezmaia/">in/marianadominguezmaia</a><br>
-        🎓 <b>Credly:</b> <a href="https://www.credly.com/users/mariana-dominguez-maia-01/edit#credly">mariana-dominguez-maia</a>
+        🎓 <b>Credly:</b> <a href="https://www.credly.com/users/mariana-dominguez-maia">mariana-dominguez-maia</a>
       </p>
-    </td>
-    <td valign="top" width="40%">
+    </div>
+    <div style="width: 40%;">
       <img src="https://i.pinimg.com/originals/77/0f/ea/770fea15b7c2ac73fa7c5c4e3b41c9e0.gif" width="80%"/>
-    </td>
-  </tr>
-</table>
-
----
+    </div>
+  </div>
+</div>
 
 ### 🛠️ Minha Stack Tecnológica
 
