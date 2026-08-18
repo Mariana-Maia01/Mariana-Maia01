@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <p>Tenho 18 anos e sou natural de São Paulo. Atualmente, estou no 3º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Fatec Mogi das Cruzes</b>.</p>
+      <p>Tenho 18 anos e sou natural de São Paulo. Atualmente, estou no 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Fatec Mogi das Cruzes</b>.</p>
       <p>Meu foco principal é o desenvolvimento <b>Full-Stack</b>, construindo aplicações completas, do banco de dados à interface do usuário.</p>
       <p>
         📫 <b>Contato:</b> <a href="mailto:marianadominguezmaia@gmail.com">marianadominguezmaia@gmail.com</a><br>
